@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Tharindu Darshana Dehipitiya. I’m a undergraduate of University of sri Jayewardenepura  with a degree in Bachelor of science in information Technology. I am much interested in developing new things which excite me a lot.",
-  //resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "https://japurauni-my.sharepoint.com/personal/96545_fhss_sjp_ac_lk/Documents/CV/Job%20CV.pdf",
 };
 
 // PROJECTS SECTION
@@ -133,7 +133,7 @@ const getInTouch = {
   heading: "Contact",
   message:
     " if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "dehipitiya055@gmail.com /+94725632145"
+  email: "dehipitiya055@gmail.com /+94769303539"
 };
 
 const experiences = {
