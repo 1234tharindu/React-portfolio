@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Tharindu Darshana Dehipitiya. I’m a undergraduate of University of sri Jayewardenepura  with a degree in Bachelor of science in information Technology. I am much interested in developing new things which excite me a lot.",
-  resume: "https://japurauni-my.sharepoint.com/personal/96545_fhss_sjp_ac_lk/Documents/CV/Job%20CV.pdf",
+  resume: "https://drive.google.com/file/d/1tpSqz6sXoN29p1m0k3WVejujLI8JHZIZ/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -67,7 +67,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "1234Tharindu", //i.e."johnDoe12Gh"
-  reposLength: 4,
+  reposLength: 2,
   specificRepos: [],
 };
 
