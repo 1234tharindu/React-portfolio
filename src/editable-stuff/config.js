@@ -143,23 +143,23 @@ const experiences = {
   data: [
     {
       role: 'App Development',// Here Add Company Name
-      //companylogo: require('../assets/img/one.jpg'),
+      //companylogo: require('../assets/img/bb.png'),
       
       date: 'I also have knowledge of React Native development and have experience in building android  application.',
     },
     {
       role: 'Web Development',
-      //companylogo: require('../assets/img/boeing.png'),
+     //companylogo: require('../assets/img/bb.png'),
       date: ' I am full stack web developer(MERN) and build website using HTML,CSS,javascript,Reactjs.I have also good grasp on Node and Nosql(MongoDb).',
     },
     {
       role: 'UI/UX Designer',
-      //companylogo: require('../assets/img/boeing.png'),
+      //companylogo: require('../assets/img/xd.png'),
       date: 'UI/UX is interesting file in my life.',
     },
     {
       role: 'Other interest',
-      //companylogo: require('../assets/img/boeing.png'),
+      //companylogo: require('../assets/img/git.png'),
       date: ' I also have decent hand in developing website with wordpress.Github are my other fields of interest.',
     },
   ]
